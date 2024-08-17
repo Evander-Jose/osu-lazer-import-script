@@ -35,6 +35,8 @@ This is what your folder should look like at this stage.
 9. osu! lazer should then open and import your beatmaps. Enjoy!
 10. If you want to import more beatmaps again, then simply repeat steps 5 through 9, excluding 7.
 ---
-Note: the script will automatically delete the beatmap packs placed into the folder.
+Notes
 ---
+The script will automatically delete all beatmap packs placed into the folder.
+
 This script will only work with beatmaps, whose contents entirely consist of `.osz` files.
